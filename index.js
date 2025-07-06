@@ -82,7 +82,7 @@ async function fetchReport(data) {
     ]
     
     try {
-        const url = 'https://open-ai-stock-hamza.hamzarachidi04.workers.dev/'
+        const url = 'https://ai-text.hamzarachidi04.workers.dev/'
         
         const response = await fetch(url, {
             method: 'POST',
